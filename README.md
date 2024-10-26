@@ -2,8 +2,8 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anjali
 
-- 🌱 I conduct trainings in topics like Python, Software Engineering, QA Methodologies, etc. There syllabi are [here](https://github.com/anjaliyogeshkulkarni/anjaliyogeshkulkarni/Trainings.md).
-- 👯 My resume is [here](https://raw.githubusercontent.com/anjaliyogeshkulkarni/anjaliyogeshkulkarni/main/Resume_Anjali_Kulkarni.pdf).
+- 🌱 I conduct trainings in topics like Python, Software Engineering, QA Methodologies, etc. More details [here](https://github.com/anjaliyogeshkulkarni/anjaliyogeshkulkarni/Trainings.md).
+- 👯 Download my resume from [here](https://raw.githubusercontent.com/anjaliyogeshkulkarni/anjaliyogeshkulkarni/main/Resume_Anjali_Kulkarni.pdf).
 - 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/anjalikulkarni/). 😊
 
 Thank you 🙏
