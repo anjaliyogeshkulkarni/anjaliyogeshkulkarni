@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anjali
+
+- 🌱 I conduct trainings in topics like Python, Software Engineering, QA Methodologies, etc. There syllabi are [here](https://github.com/anjaliyogeshkularni/anjaliyogeshkularni/Syllabi.md).
+- 👯 My resume is [here](https://github.com/anjaliyogeshkularni/anjaliyogeshkularni/Syllabi.md).
+- 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/yogeshkulkarni/) me there. 😊
+
+Thank you 🙏
+
+
 <!--
 **anjaliyogeshkulkarni/anjaliyogeshkulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
