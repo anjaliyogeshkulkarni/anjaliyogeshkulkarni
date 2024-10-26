@@ -1,4 +1,4 @@
-#Python - Syllabus
+# Python - Syllabus
 
 ## Session 1:  
 * Installing Python   
