@@ -3,8 +3,8 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anjali
 
 - 🌱 I conduct trainings in topics like Python, Software Engineering, QA Methodologies, etc. There syllabi are [here](https://github.com/anjaliyogeshkularni/anjaliyogeshkularni/Syllabi.md).
-- 👯 My resume is [here](https://github.com/anjaliyogeshkularni/anjaliyogeshkularni/Syllabi.md).
-- 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/yogeshkulkarni/) me there. 😊
+- 👯 My resume is [here](https://github.com/anjaliyogeshkularni/anjaliyogeshkularni/Resume_Anjali_Kulkarni.pdf).
+- 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/anjalikulkarni/) me there. 😊
 
 Thank you 🙏
 
