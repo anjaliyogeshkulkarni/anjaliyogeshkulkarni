@@ -13,7 +13,7 @@ I'm a seasoned QA professional with 18+ years of experience specializing in test
 ## 🎓 Training & Consultancy Areas
 - [Software Engineering Fundamentals](SoftwareEngineering.md)
 - [Software Testing](Testing.md)
-- [Python Programming] (Python.md)
+- [Python Programming](Python.md)
 
 
 ## Contact
