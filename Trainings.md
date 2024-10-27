@@ -17,4 +17,4 @@ I'm a seasoned QA professional with 18+ years of experience specializing in test
 
 
 ## Contact
-Feel free to connect with me either on [LinkedIn](https://www.linkedin.com/in/anjalikulkarni/) or by [email](mailto.anjaliyogeshkulkarni@gmail.com)
+Feel free to connect with me either on [LinkedIn](https://www.linkedin.com/in/anjalikulkarni/) or by [email](mailto:anjaliyogeshkulkarni@gmail.com)
