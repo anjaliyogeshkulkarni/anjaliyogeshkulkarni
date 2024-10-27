@@ -4,7 +4,8 @@
 
 - 🌱 I conduct trainings in topics like Python, Software Engineering, QA Methodologies, etc. More details [here](Trainings.md).
 - 👯 Download my resume from [here](https://raw.githubusercontent.com/anjaliyogeshkulkarni/anjaliyogeshkulkarni/main/Resume_Anjali_Kulkarni.pdf).
-- 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/anjalikulkarni/). 😊
+- 📫 My LinkedIn profile is [here](https://www.linkedin.com/in/anjalikulkarni/). 
+- Projects that I have worked on [here](Projects.md)😊
 
 Thank you 🙏
 
