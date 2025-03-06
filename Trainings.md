@@ -14,6 +14,7 @@ I'm a seasoned QA professional with 18+ years of experience specializing in test
 - [Software Engineering Fundamentals](SoftwareEngineering.md)
 - [Software Testing](Testing.md)
 - [Python Programming](Python.md)
+- [Gen AI In QA](GenAI_In_QA.md)
 
 
 ## Contact
